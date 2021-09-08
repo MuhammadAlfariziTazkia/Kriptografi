@@ -1,0 +1,6 @@
+Halo, Nama saya Muhammad Alfarizi Tazkia
+Saya seorang mahasiswa teknik informatika tingkat akhir
+dari institut teknologi sumatera
+selama perkuliahan saya senang di bidang website development dan machine learning
+untuk website development, saya fokus pada backend
+sedangkan untuk machine learning, saya fokus pada deep learning
